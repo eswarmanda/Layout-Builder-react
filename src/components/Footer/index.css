@@ -1,0 +1,10 @@
+/* Write your CSS here */
+.footer-card {
+  height: 80px;
+  background-color: #cbd5e1;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: #64748b;
+}
